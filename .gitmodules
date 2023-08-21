@@ -7,3 +7,6 @@
 [submodule "alura-food-gateway"]
 	path = alura-food-gateway
 	url = git@github.com:nayarabssantos/alura-food-gateway.git
+[submodule "alura-food-server"]
+	path = alura-food-server
+	url = git@github.com:nayarabssantos/alura-food-server.git
