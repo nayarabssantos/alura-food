@@ -1,5 +1,5 @@
-[submodule "aula-food-pagamentos"]
-	path = aula-food-pagamentos
+[submodule "alura-food-pagamentos"]
+	path = alura-food-pagamentos
 	url = git@github.com:nayarabssantos/pagamentos.git
 [submodule "alura-food-pedidos"]
 	path = alura-food-pedidos
